@@ -1,0 +1,1 @@
+docker run --rm -it bwajtr/docker-builder-maven-node-python:latest /bin/bash
